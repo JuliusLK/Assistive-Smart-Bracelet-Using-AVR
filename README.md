@@ -1,1 +1,0 @@
-# Assistive-Smart-Bracelet-Using-AVR
